@@ -1,0 +1,14 @@
+ #proxy-text {
+        font-size: 24px;
+        color: white;
+        margin-top: 50px;
+    }
+
+    #proxy-textbox {
+        width: 300px;
+        height: 40px;
+        margin-top: 20px;
+        font-size: 16px;
+        padding: 5px;
+    }
+</style>
